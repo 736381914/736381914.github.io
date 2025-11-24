@@ -29,7 +29,7 @@ I’m very willing to participate in academic discussions and collaborations, so
 
 <span style="font-size:15px;">My research interests lie in Machine Learning and Computer Vision. Currently, I am particularly interested in Out-of-Distribution (OOD) Detection, especially leveraging synthesized outliers for model regularization. Previously, I conducted in-depth research on Anomaly Detection, with a focus on Surface Anomaly Detection in industrial scenarios.</span>
 
-<span style="font-size:18px;">***Selected Publications***</span>* <span style="font-size:15px;">(<sup>†</sup> indicates Corresponding Author)</span>
+<span style="font-size:18px;">***Selected Publications***</span> <span style="font-size:15px;">(<sup>†</sup> indicates Corresponding Author)</span>
 
 <div style="display:flex;align-items:center;gap:12px;font-family:Arial,Helvetica,sans-serif;max-width:100%;margin-bottom:20px;">   
     <img src="images/research/Fantasy-OOD.jpg" alt="paper thumbnail" style="width:33%;height:auto;border-radius:4px;object-fit:cover;box-shadow:0 1px 3px rgba(0,0,0,0.12)"/>   
