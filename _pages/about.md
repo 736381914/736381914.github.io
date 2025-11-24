@@ -26,30 +26,10 @@ I’m very willing to participate in academic discussions and collaborations, so
 </ul>
 # 📝 Research
 
-
 <span style="font-size:15px;">My research interests lie in Machine Learning and Computer Vision. Currently, I am particularly interested in Out-of-Distribution (OOD) Detection, especially leveraging synthesized outliers for model regularization. Previously, I conducted in-depth research on Anomaly Detection, with a focus on Surface Anomaly Detection in industrial scenarios.</span>
 
 <span style="font-size:18px;">***Selected Publications***</span> <span style="font-size:15px;">(<sup>†</sup> indicates Corresponding Author)</span>
 
-<div style="display:flex;align-items:center;gap:12px;font-family:Arial,Helvetica,sans-serif;max-width:100%;margin-bottom:20px;">   
-    <img src="images/research/Fantasy-OOD.jpg" alt="paper thumbnail" style="width:33%;height:auto;border-radius:4px;object-fit:cover;box-shadow:0 1px 3px rgba(0,0,0,0.12)"/>   
-    <div style="line-height:1.25; display:flex; flex-direction:column; justify-content:center;">     
-        <div style="font-weight:700;font-size:15px;"> 
-            Fantasy Anything: A Journey of Outlier Imagination Across Unknown Spaces
-        </div>     
-        <div style="font-size:14px;color:#333;margin-top:5px;">       
-            <span style="font-weight:600;">Ruifan Zhang</span>, 
-            Yibo Zhou, Xiaokang Zhang, Hai-Miao Hu<sup>†</sup>     
-        </div>     
-        <div style="font-size:14px;color:#666;margin-top:5px;">       
-            <em>Coming soon~</em>     
-        </div>     
-        <div style="margin-top:5px;font-size:14px;">              
-            <a href="#" style="margin:0 2px;text-decoration:none;color:#1B5CA1;">paper</a> /       
-            <a href="#" style="margin:0 2px;text-decoration:none;color:#1B5CA1;">code</a>            
-        </div>   
-    </div> 
-</div>
 
 <div style="display:flex;align-items:center;gap:12px;font-family:Arial,Helvetica,sans-serif;max-width:100%;margin-bottom:20px;">   
     <img src="images/research/DOSL.png" alt="paper thumbnail" style="width:33%;height:auto;border-radius:4px;object-fit:cover;box-shadow:0 1px 3px rgba(0,0,0,0.12)"/>   
